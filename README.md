@@ -1,2 +1,29 @@
 # Simple-Website
 The Simple and easy way to create a website
+<html>
+    <head>
+        <title>Hi Hello!!!</title>
+        <link rel="stylesheet" href="style.css">
+    </head>
+    <body>
+        <div class="banner">
+            <div class="navbar">
+                <img src="logo.png" class="logo">
+                    <ul>
+                        <li><a href="#">Home</a></li>
+                        <li><a href="#">Product</a></li>
+                        <li><a href="#">Service</a></li>
+                        <li><a href="#">Contact</a></li>
+                        <li><a href="#">Gallery</a></li>
+                    </ul>
+                </div>
+                <div class="content">
+                    <center>MY WEB</center>
+                    <div>
+                        <button type="button">READ MORE</button>
+                    </div>
+                </div>
+
+        </div>
+    </body>
+</html>
